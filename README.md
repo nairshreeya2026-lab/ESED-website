@@ -5,8 +5,8 @@ The ESED council executes major departmental initiatives under the leadership of
 
 About the websites I created:
 
-For my first ESED website project, I used Canva to create an intro video that opens up into a page displaying our department's council members. I also added a button at the bottom of the page that takes users directly to the official ESED website.
+For my first ESED website project (index.html), I used Canva to create an intro video that opens up into a page displaying our department's council members. I also added a button at the bottom of the page that takes users directly to the official ESED website.
 
-For the second website, I wanted to try out an interactive flip-card design, which I noticed and liked on the Mechanical and Computer Science council sites. The home page has two buttons that guide users to different pages where they can click on the cards to flip them over and see more details.
+For the second website (final.html), I wanted to try out an interactive flip-card design, which I noticed and liked on the Mechanical and Computer Science council sites. The home page has two buttons that guide users to different pages where they can click on the cards to flip them over and see more details.
 
 Since I am still new to web development, I used LLMs to help me write and refine the HTML, CSS, and JavaScript code needed to bring my design ideas to life.
